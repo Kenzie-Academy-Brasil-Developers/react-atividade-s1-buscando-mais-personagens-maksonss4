@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.App div{
+  display: flex;
+  gap: 10px;
+}
